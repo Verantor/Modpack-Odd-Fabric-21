@@ -186,11 +186,6 @@ hash = "4b13733e7e753ff334c5772cf1b1968112ed71ff9574020626be7a807dc31902"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "b4eee90e0731ffdcd82cda4467f8dbbaaa651c8cbfab9bfa3c8e3066b440f6ba"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "e506591a7f48bd5eedb25477c41bd32059714e423fc9c4414a7784b138bc7ec3"
 metafile = true
@@ -207,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "4d05703ae6215d223d06854998225a1d1e3e2f1c54b135fa583eb17030d5d33d"
+hash = "d7d660f50a14ec6ddf9ad742efc018e5a589ec34a079674602f694fc95a50d23"
 metafile = true
 
 [[files]]
