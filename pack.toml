@@ -1,0 +1,13 @@
+name = "modpack"
+author = "odd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40934113bbb230bd1afa0352cba52e810a4f4d76620eaf8ac9d30b56e96c39b6"
+
+[versions]
+fabric = "0.16.2"
+minecraft = "1.21.1"
