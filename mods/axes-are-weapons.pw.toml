@@ -1,0 +1,13 @@
+name = "Axes Are Weapons (Fabric/(Neo)Forge)"
+filename = "AxesAreWeapons-1.9.1-fabric-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e19a07005fa74bc0ebc51345d9bde67a5fa92c39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5595209
+project-id = 456457

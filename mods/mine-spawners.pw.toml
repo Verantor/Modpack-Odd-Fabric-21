@@ -1,0 +1,13 @@
+name = "Mine Spawners"
+filename = "mine-spawners-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ff4b3c7e215a73c50fbe0b31cdcf7a53d1013a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5619243
+project-id = 873535
